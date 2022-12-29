@@ -1,5 +1,5 @@
 # Hi, I'm Francesco Lorenzi!
-Welcome to the GitHub page where I develop my software projects, related to Physics, Photonics, applied Electrodynamics.
+Welcome to the GitHub page where I develop my software projects, related to ultracold atom physics, photonics, applied electrodynamics and more.
 
 ## My GitHub stats 📈 
 
