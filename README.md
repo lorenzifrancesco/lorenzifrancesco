@@ -1,6 +1,6 @@
 # Hi, I'm Francesco Lorenzi!
 > Ph.D. student of Condensed Matter Theory at the University of Padova.
-
+>
 > Currently working at UPC BQMC group.
 
 Welcome to the GitHub page where I develop my software projects, related to ultracold atom physics, photonics, applied electrodynamics and more.
