@@ -1,5 +1,5 @@
 # Hi, I'm Francesco Lorenzi!
-> Ph.D. student of Condensed Matter Theory at the University of Padova.
+> Ph.D. student of Theoretical Physics at the University of Padova.
 >
 > Just got back to UNIPD from Barcelona UPC - BQMC group.
 
