@@ -1,5 +1,6 @@
 # Hi, I'm Francesco Lorenzi!
-> Ph.D. student of Theoretical Physics at the University of Padova.
+> Postdoctoral researcher in photonics and electromagnetics at the University of Padova, working on nonlinear optics and telecommunications.
+> Previously: Ph.D. student of Theoretical Physics of matter (ultracold quantum gases and nonlinear physics) at the University of Padova.
 
 Welcome to the GitHub page where I develop my software projects, related to ultracold atom physics, photonics, applied electrodynamics, and more.
 (Take a look at my [scientific blog](https://lorenzifrancesco.github.io/)!)
